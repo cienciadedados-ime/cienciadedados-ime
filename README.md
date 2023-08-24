@@ -1,3 +1,8 @@
+Projeto de Extensão Universitária promovido pelo Instituto de Matemática e Estatística da Universidade Federal da Bahia registrado com número 19588 no sistema SIATEX.
+
+O objetivo deste projeto é promover cientificamente correto usando _software livre_.
+
+
 - 👋 Hi, I’m @cienciadedados-ime
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
