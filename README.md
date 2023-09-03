@@ -1,4 +1,4 @@
-Projeto de Extensão Universitária promovido pelo Instituto de Matemática e Estatística da Universidade Federal da Bahia registrado com número 19588 no sistema SIATEX.
+Projeto de Extensão Universitária promovido pelo Instituto de Matemática e Estatística da Universidade Federal da Bahia.
 
 O objetivo deste projeto é promover o uso cientificamente correto da Estatística e Ciência de Dados.
 
